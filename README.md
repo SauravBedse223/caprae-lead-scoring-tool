@@ -22,9 +22,8 @@ The goal of this tool is to help sales and investment teams **prioritize high-va
 
 ## 📸 Demo
 
-[https://youtu.be/your-demo-video-link-here](https://youtu.be/_CmXf26iUGg)
+[your-demo-video-link-here](https://youtu.be/_CmXf26iUGg)
 
-> *(Replace the link above with your Loom or YouTube video)*
 
 ---
 
