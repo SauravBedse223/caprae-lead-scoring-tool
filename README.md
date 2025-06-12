@@ -20,7 +20,7 @@ The goal of this tool is to help sales and investment teams **prioritize high-va
 ---
 ![Output Screenshot](output/output.png)
 
-## 📸 Demo
+## 📸 Demo Video
 
 [your-demo-video-link-here](https://youtu.be/_CmXf26iUGg)
 
