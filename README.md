@@ -18,6 +18,7 @@ The goal of this tool is to help sales and investment teams **prioritize high-va
 - 💡 Clean UI built with Streamlit
 
 ---
+![Output Screenshot](output/output.png)
 
 ## 📸 Demo
 
